@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-uz-5)ynn%yghte7p4h5g5ie6fd2i80_(v^zitq_4lta+^(u0d8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://boutique-adot-04497a992b5b.herokuapp.com, 8000-estii20-boutique-ado-v1-fh514d2iae.us2.codeanyapp.com', '8001-estii20-boutique-ado-v1-fh514d2iae.us2.codeanyapp.com', 'localhost']
+ALLOWED_HOSTS = ['https://boutique-adot-04497a992b5b.herokuapp.com', '8000-estii20-boutique-ado-v1-fh514d2iae.us2.codeanyapp.com', '8001-estii20-boutique-ado-v1-fh514d2iae.us2.codeanyapp.com', 'localhost']
 
 # Application definition
 
